@@ -1,0 +1,16 @@
+{
+  "name": "روتین پلنر",
+  "short_name": "روتین",
+  "description": "برنامه‌ریز عادت‌های روزانه — پیگیری عادت‌ها، یادداشت، عکس، نمودار و کالری‌شمار",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F1E7",
+  "theme_color": "#146B69",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
